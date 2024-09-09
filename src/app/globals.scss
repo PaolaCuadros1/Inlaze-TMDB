@@ -1,0 +1,10 @@
+$font-family-base: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$body-bg: #454545;
+$primary: #F0B90B;
+
+@import '../scss/custom-bootstrap';
+
+html, body {
+    scroll-behavior: smooth;
+}

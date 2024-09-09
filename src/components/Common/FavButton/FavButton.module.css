@@ -1,0 +1,16 @@
+.favIcon {
+    transition: transform .25s ease-out;
+}
+
+.favIcon path {
+    transition: fill .25s ease-out;
+}
+
+.favIcon:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.favIcon:hover path {
+    fill: red;
+}

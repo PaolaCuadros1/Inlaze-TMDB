@@ -1,0 +1,26 @@
+.navbar {
+    background-color: black;
+    min-height: 69px;
+}
+
+.container {
+    @media all and (min-width: 992px) {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+.inlineMenu {
+    list-style: none;
+    gap: 40px;
+    margin: 0;
+}
+
+.inlineMenu a {
+    color: white;
+    text-decoration: none;
+}
+
+.inlineMenu a:hover {
+    color: var(--bs-link-color);
+}
