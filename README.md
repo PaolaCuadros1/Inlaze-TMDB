@@ -11,6 +11,9 @@ Project created to demonstrate knowledge related to React, CSS, and good practic
 - React
 - Bootstrap
 - swiper
+- Deploy app: Netlify
+
+You can see the app in this [link](https://main--gregarious-smakager-697565.netlify.app/) 
 
 ## Getting Started
 
